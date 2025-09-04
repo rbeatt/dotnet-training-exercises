@@ -29,7 +29,7 @@ Contributing
 - Open a PR with a short description of changes.
 
 License
-- No license specified. Add a LICENSE file if you intend to publish
+- This repository is licensed under the MIT License — see the `LICENSE` file for details.
 
 ## JIRA CSV import
 
