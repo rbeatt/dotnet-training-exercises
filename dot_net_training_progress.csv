@@ -1,0 +1,9 @@
+Summary,Issue Type,Priority,Description,Assignee,Status
+FizzBuzz + Calculator,Task,High,"Warm-up exercises: FizzBuzz console app and Calculator with error handling",,To Do
+BirdCount + Log Analyser,Task,High,"LINQ queries and file I/O: BirdCount methods, log analysis",,To Do
+Bank Account System,Task,High,"Simulate banking system with EF Core and xUnit tests",,To Do
+API Consumer Challenge,Task,Medium,"Consume external REST APIs (PokéAPI), print details",,To Do
+Web API Tutorial,Task,High,"Build REST API with ASP.NET Core; add Swagger and authentication",,To Do
+Todo App Exercise,Task,High,"Full-stack ASP.NET Core app with filtering, DueDate, Azure deployment",,To Do
+AI Modules,Task,Medium,"Integrate AI using Azure Cognitive Services: Text Analytics & Computer Vision",,To Do
+Final Project,Task,High,"Capstone project: extend Todo App or create new project with DB, API, unit tests",,To Do
