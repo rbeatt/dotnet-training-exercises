@@ -60,7 +60,7 @@ This course provides a structured programme for graduate/associate software engi
 ---
 
 ## Recommended Learning Resources
-- [Microsoft Learn: C# Fundamentals](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/)
+- [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core/)
 - [Azure AI services](https://azure.microsoft.com/en-us/products/ai-services/)
 - [xUnit.net](https://xunit.net/)

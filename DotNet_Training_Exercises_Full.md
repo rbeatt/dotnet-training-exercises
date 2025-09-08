@@ -54,7 +54,7 @@ Practise LINQ queries, array operations, and file I/O.
 ### Useful Links
 
 * [LINQ Queries](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/introduction-to-linq-queries)
-* [File I/O in C#](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/file-system/how-to-read-and-write-to-a-text-file)
+* [File I/O in C#](https://learn.microsoft.com/en-us/dotnet/standard/io/)
 
 ---
 
@@ -149,7 +149,7 @@ Full-stack ASP.NET Core app with database persistence and Azure deployment.
 ### Useful Links
 
 * [Azure Deployment](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore)
-* [GitHub Actions for .NET](https://learn.microsoft.com/en-us/dotnet/devops/github-actions-dotnet)
+* [GitHub Actions for .NET](https://learn.microsoft.com/en-us/dotnet/devops/github-actions-overview)
 
 ---
 
