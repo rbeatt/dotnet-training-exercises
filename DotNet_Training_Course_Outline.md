@@ -41,8 +41,8 @@ This course provides a structured programme for graduate/associate software engi
 ---
 
 ## Day 10-11: AI Modules
-- **Objective:** Introduce AI integration with .NET applications using Azure Cognitive Services.
-- **Key Skills:** Text Analytics API, Computer Vision API, integrating AI into apps, unit testing AI features.
+- **Objective:** Introduce AI integration with .NET applications using Azure AI services.
+- **Key Skills:** Azure AI Language, Azure AI Vision, integrating AI into apps, unit testing AI features.
 
 ---
 
@@ -62,6 +62,6 @@ This course provides a structured programme for graduate/associate software engi
 ## Recommended Learning Resources
 - [Microsoft Learn: C# Fundamentals](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/)
 - [ASP.NET Core Documentation](https://learn.microsoft.com/en-us/aspnet/core/)
-- [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
+- [Azure AI services](https://azure.microsoft.com/en-us/products/ai-services/)
 - [xUnit.net](https://xunit.net/)
 - [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)

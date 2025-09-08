@@ -157,12 +157,12 @@ Full-stack ASP.NET Core app with database persistence and Azure deployment.
 
 ### Introduction
 
-Introduce AI integration with .NET applications using Azure Cognitive Services.
+Introduce AI integration with .NET applications using Azure AI services.
 
 ### The Challenge
 
-1. Use Text Analytics API for sentiment analysis.
-2. Use Computer Vision API to analyse images.
+1. Use Azure AI Language for sentiment analysis.
+2. Use Azure AI Vision to analyse images.
 3. Integrate outputs into console or web apps.
 
 ### Stretch Goals
@@ -172,9 +172,9 @@ Introduce AI integration with .NET applications using Azure Cognitive Services.
 
 ### Useful Links
 
-* [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
-* [Text Analytics API](https://learn.microsoft.com/en-us/azure/cognitive-services/text-analytics/)
-* [Computer Vision API](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
+* [Azure AI services](https://azure.microsoft.com/en-us/products/ai-services/)
+* [Azure AI Language](https://learn.microsoft.com/en-us/azure/ai-services/language-service/)
+* [Azure AI Vision](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/)
 
 ---
 
