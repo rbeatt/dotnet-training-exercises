@@ -1,0 +1,5 @@
+account_id,owner_name,initial_balance,allow_overdraft
+A001,Alice,1000,false
+A002,Bob,250,true
+A003,Charlie,0,false
+A004,Diana,500,false

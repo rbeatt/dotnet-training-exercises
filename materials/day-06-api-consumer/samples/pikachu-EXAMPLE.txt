@@ -1,0 +1,4 @@
+name: pikachu
+id: 25
+types: electric
+abilities: static, lightning-rod

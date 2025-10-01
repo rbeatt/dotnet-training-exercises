@@ -1,0 +1,8 @@
+tx_id,account_id,type,amount,timestamp,notes
+T001,A001,Deposit,200,2025-09-25T09:00:00Z,Salary
+T002,A001,Withdrawal,50,2025-09-25T10:00:00Z,ATM
+T003,A002,Withdrawal,300,2025-09-25T11:00:00Z,Groceries
+T004,A002,Deposit,150,2025-09-25T12:00:00Z,Refund
+T005,A003,Withdrawal,10,2025-09-25T12:30:00Z,ShouldFail-InsufficientFunds
+T006,A004,Deposit,0,2025-09-25T13:00:00Z,ShouldFail-InvalidAmount
+T007,A004,Withdrawal,600,2025-09-25T14:00:00Z,ShouldFail-OverdraftNotAllowed

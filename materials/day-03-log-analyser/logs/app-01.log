@@ -1,0 +1,16 @@
+2025-09-25T09:00:00Z [INFO] Application started
+2025-09-25T09:00:01Z [INFO] Configuration loaded
+2025-09-25T09:01:12Z [WARN] Cache miss for userId=42
+2025-09-25T09:01:30Z [ERROR] Database connection failed
+2025-09-25T09:01:45Z [INFO] Retrying operation
+2025-09-25T09:02:00Z [ERROR] Database connection failed
+2025-09-25T09:02:30Z [INFO] Connected to database
+2025-09-25T09:03:10Z [ERROR] Timeout while calling downstream service
+2025-09-25T09:03:12Z [WARN] Downstream latency above threshold (850ms)
+2025-09-25T09:03:30Z [ERROR] Timeout while calling downstream service
+2025-09-25T09:04:00Z [INFO] Request GET /api/items succeeded
+2025-09-25T09:04:15Z [WARN] Deprecated API usage detected
+2025-09-25T09:05:00Z [ERROR] Timeout while calling downstream service
+2025-09-25T09:05:45Z [ERROR] NullReferenceException in HomeController.Index
+2025-09-25T09:06:00Z [INFO] Health check passed
+2025-09-25T09:06:30Z [WARN] Disk space at 85%

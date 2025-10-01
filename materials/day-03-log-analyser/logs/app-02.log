@@ -1,0 +1,14 @@
+2025-09-25 10:00:00 [INFO] Service starting
+Malformed line with no timestamp or level
+2025-09-25 10:00:05 [WARN] Disk nearly full (92%)
+2025-09-25 10:01:00 [INFO] User login: alice
+2025-09-25 10:05:00 [ERROR] Failed to parse request body
+2025-09-25 10:05:01 [ERROR] Failed to parse request body
+2025/09/25 10:06:00 [ERROR] Failed to parse request body
+DEBUG This is a debug line not to be counted
+[INFO] Missing timestamp but has level
+
+2025-09-25 10:07:10 [ERROR] Unauthorized access
+2025-09-25 10:07:30 [WARN] 
+2025-09-25 10:08:00 ERROR Missing brackets around level
+2025-09-25 10:09:00 [INFO] Service healthy
