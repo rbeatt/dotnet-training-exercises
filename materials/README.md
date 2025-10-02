@@ -12,4 +12,4 @@ This folder contains supporting materials referenced by the course document.
 - day-09-10-ai/
 - day-11-12-todo/
 
-Each subfolder includes a README plus worksheets, hints, and any datasets or samples.
+Each subfolder contains only the essentials: worksheets and any datasets or samples needed for the exercises.

@@ -41,7 +41,6 @@ Warm-up exercises to practise loops, conditionals, console I/O, and error handli
 ### Supporting Materials
 
 - Worksheet: [materials/day-01-fizzbuzz-calculator/worksheet.md](materials/day-01-fizzbuzz-calculator/worksheet.md)
-- Tips & pitfalls: [materials/day-01-fizzbuzz-calculator/hints.md](materials/day-01-fizzbuzz-calculator/hints.md)
 
 ---
 
@@ -78,7 +77,6 @@ Implement a `Twitcher` class operating on an `int[]` of daily bird counts. Inclu
 ### Supporting Materials
 
 - Worksheet: [materials/day-02-twitcher/worksheet.md](materials/day-02-twitcher/worksheet.md)
-- Tips & pitfalls: [materials/day-02-twitcher/hints.md](materials/day-02-twitcher/hints.md)
 
 ---
 
@@ -147,7 +145,6 @@ Simulate a banking system with EF Core persistence and testing. Use a local data
 - Accounts dataset: [materials/day-04-05-bank/datasets/accounts.csv](materials/day-04-05-bank/datasets/accounts.csv)
 - Transactions dataset: [materials/day-04-05-bank/datasets/transactions.csv](materials/day-04-05-bank/datasets/transactions.csv)
 - Worksheet (scenarios & validations): [materials/day-04-05-bank/worksheet.md](materials/day-04-05-bank/worksheet.md)
-- Tips & pitfalls (EF Core, validation): [materials/day-04-05-bank/hints.md](materials/day-04-05-bank/hints.md)
 
 ---
 
@@ -183,7 +180,6 @@ Learn to consume external REST APIs with .NET.
 ### Supporting Materials
 
 - Worksheet: [materials/day-06-api-consumer/worksheet.md](materials/day-06-api-consumer/worksheet.md)
-- Tips & pitfalls: [materials/day-06-api-consumer/hints.md](materials/day-06-api-consumer/hints.md)
 - Sample output (format example): [materials/day-06-api-consumer/samples/pikachu-EXAMPLE.txt](materials/day-06-api-consumer/samples/pikachu-EXAMPLE.txt)
 
 ---
@@ -225,7 +221,6 @@ Follow the [Microsoft Web API tutorial](https://learn.microsoft.com/en-us/aspnet
 ### Supporting Materials
 
 - Worksheet: [materials/day-07-web-api/worksheet.md](materials/day-07-web-api/worksheet.md)
-- Tips & pitfalls: [materials/day-07-web-api/hints.md](materials/day-07-web-api/hints.md)
 
 ---
 
@@ -251,7 +246,6 @@ If time permits, continue to the “ASP.NET Core MVC with EF Core” tutorial se
 ### Supporting Materials
 
 - Worksheet: [materials/day-08-mvc/worksheet.md](materials/day-08-mvc/worksheet.md)
-- Tips & pitfalls: [materials/day-08-mvc/hints.md](materials/day-08-mvc/hints.md)
 
 ---
 
@@ -284,7 +278,6 @@ Follow Microsoft tutorials to integrate Azure Cognitive Search skillsets and Azu
 - Vision sample images (placeholders): [materials/day-09-10-ai/datasets/images/](materials/day-09-10-ai/datasets/images/)
 - Worksheet: [materials/day-09-10-ai/worksheet.md](materials/day-09-10-ai/worksheet.md)
 - Example outputs (for validation): [materials/day-09-10-ai/example-outputs.md](materials/day-09-10-ai/example-outputs.md)
-- Tips & pitfalls: [materials/day-09-10-ai/hints.md](materials/day-09-10-ai/hints.md)
 
 ---
 
@@ -317,7 +310,6 @@ Full-stack ASP.NET Core app with database persistence. Deployment is optional.
 
 - Seed tasks CSV: [materials/day-11-12-todo/seeds/tasks.csv](materials/day-11-12-todo/seeds/tasks.csv)
 - Worksheet (filtering, due dates, sorting): [materials/day-11-12-todo/worksheet.md](materials/day-11-12-todo/worksheet.md)
-- Tips & pitfalls: [materials/day-11-12-todo/hints.md](materials/day-11-12-todo/hints.md)
 
 ---
 

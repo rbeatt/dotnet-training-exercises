@@ -13,6 +13,17 @@ Kainos staff enrolled in the .NET training course. Each participant completes ex
 - Course outline: [DotNet_Training_Course_Outline.md](DotNet_Training_Course_Outline.md)
 - Full exercises: [DotNet_Training_Exercises_Full.md](DotNet_Training_Exercises_Full.md)
 
+## Worksheets (quick links)
+- Day 1: FizzBuzz + Calculator — [materials/day-01-fizzbuzz-calculator/worksheet.md](materials/day-01-fizzbuzz-calculator/worksheet.md)
+- Day 2: Twitcher — [materials/day-02-twitcher/worksheet.md](materials/day-02-twitcher/worksheet.md)
+- Day 3: Log Analyser — [materials/day-03-log-analyser/worksheet.md](materials/day-03-log-analyser/worksheet.md)
+- Days 4–5: Bank — [materials/day-04-05-bank/worksheet.md](materials/day-04-05-bank/worksheet.md)
+- Day 6: API Consumer — [materials/day-06-api-consumer/worksheet.md](materials/day-06-api-consumer/worksheet.md)
+- Day 7: Web API — [materials/day-07-web-api/worksheet.md](materials/day-07-web-api/worksheet.md)
+- Day 8: MVC — [materials/day-08-mvc/worksheet.md](materials/day-08-mvc/worksheet.md)
+- Days 9–10: AI — [materials/day-09-10-ai/worksheet.md](materials/day-09-10-ai/worksheet.md)
+- Days 11–12: Todo — [materials/day-11-12-todo/worksheet.md](materials/day-11-12-todo/worksheet.md)
+
 ## Requirements
 - .NET SDK (install the latest stable SDK available to you)
 - Visual Studio Code (recommended) with the C# extension
