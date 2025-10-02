@@ -1,6 +1,6 @@
 # .NET Training Exercises
 
-This repository contains the materials for a 14-day .NET training course used by Kainos staff.
+This repository contains the materials for a 12-day .NET training course used by Kainos staff.
 
 ## Who this is for
 Kainos staff enrolled in the .NET training course. Each participant completes exercises and submits solutions separately.
@@ -62,10 +62,6 @@ Project naming suggestion: DayXX.ShortName (for example: Day01.FizzBuzz).
 
 ## How to submit / share
 - Push your exercise repository to your own GitHub account (or internal Git host) and share the repo URL with the course lead or via the course submission mechanism.
-
-## JIRA CSV import
-- A CSV for tracking progress is included: `dot_net_training_progress.csv`.
-- For import details, see Atlassian's documentation: https://support.atlassian.com/jira-cloud-administration/docs/import-data-from-a-csv-file/
 
 ## Contributing (for maintainers)
 - If you want to contribute changes to these materials, open a pull request against this repository explaining the change.
