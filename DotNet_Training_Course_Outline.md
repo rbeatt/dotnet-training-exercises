@@ -1,6 +1,6 @@
 # .NET Training Course Outline (12 Days)
 
-This course provides a structured programme for graduate/associate software engineers to build solid .NET and ASP.NET Core skills over 12 days, with AI integration and a final capstone (Todo) app. Azure services are optional; prefer local databases (SQLite/LocalDB) by default.
+This course provides a structured programme for Kainos staff to build solid .NET and ASP.NET Core skills over 12 days, with AI integration and a final capstone (Todo) app. Azure services are optional; prefer local databases (SQLite/LocalDB) by default.
 
 ---
 

@@ -1,6 +1,6 @@
 # Example Outputs (for validation)
 
-Azure Cognitive Search (sample query results):
+Azure AI Search (sample query results):
 ```json
 {
   "value": [

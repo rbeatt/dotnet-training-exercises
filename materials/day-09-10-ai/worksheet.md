@@ -1,6 +1,6 @@
-# Days 9–10 Worksheet: AI Tutorials (Cognitive Search + Vision)
+# Days 9–10 Worksheet: AI Tutorials (AI Search + Vision)
 
-Azure Cognitive Search (Skillset tutorial):
+Azure AI Search (Skillset tutorial):
 - Input: documents in datasets/search-docs/*.json
 - Tasks:
 	- Create data source, skillset, index, and indexer as per tutorial.

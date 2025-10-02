@@ -249,15 +249,15 @@ If time permits, continue to the “ASP.NET Core MVC with EF Core” tutorial se
 
 ---
 
-## Day 9–10: AI Tutorials (Cognitive Search + Vision)
+## Day 9–10: AI Tutorials (AI Search + Vision)
 
 ### Introduction
 
-Follow Microsoft tutorials to integrate Azure Cognitive Search skillsets and Azure AI Vision (Image Analysis) with .NET.
+Follow Microsoft tutorials to integrate Azure AI Search skillsets and Azure AI Vision (Image Analysis) with .NET.
 
 ### The Challenge
 
-1. Complete the Azure Cognitive Search skillset tutorial (C#, end-to-end): define a data source, skillset, index, and indexer; run the indexer.
+1. Complete the Azure AI Search skillset tutorial (C#, end-to-end): define a data source, skillset, index, and indexer; run the indexer.
 2. Complete the Azure AI Vision Image Analysis quickstart (v4.0): analyse the provided sample images.
 3. Save outputs (JSON or CSV) from both tutorials to the local `results/` folder for review.
 
@@ -269,12 +269,12 @@ Follow Microsoft tutorials to integrate Azure Cognitive Search skillsets and Azu
 ### Useful Links
 
 * [Azure AI services](https://azure.microsoft.com/en-us/products/ai-services/)
-* [Azure Cognitive Search: Build a skillset (C# tutorial)](https://learn.microsoft.com/en-us/azure/search/tutorial-skillset?pivots=csharp)
+* [Azure AI Search: Build a skillset (C# tutorial)](https://learn.microsoft.com/en-us/azure/search/tutorial-skillset?pivots=csharp)
 * [Azure AI Vision: .NET Image Analysis quickstart (v4.0)](https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?tabs=visual-studio%2Cwindows&pivots=vision-studio)
 
 ### Supporting Materials
 
-- Cognitive Search sample docs: [materials/day-09-10-ai/datasets/search-docs/](materials/day-09-10-ai/datasets/search-docs/)
+- AI Search sample docs: [materials/day-09-10-ai/datasets/search-docs/](materials/day-09-10-ai/datasets/search-docs/)
 - Vision sample images (placeholders): [materials/day-09-10-ai/datasets/images/](materials/day-09-10-ai/datasets/images/)
 - Worksheet: [materials/day-09-10-ai/worksheet.md](materials/day-09-10-ai/worksheet.md)
 - Example outputs (for validation): [materials/day-09-10-ai/example-outputs.md](materials/day-09-10-ai/example-outputs.md)
